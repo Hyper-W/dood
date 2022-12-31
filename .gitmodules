@@ -1,0 +1,9 @@
+[submodule "ubuntu-dood"]
+	path = ubuntu-dood
+	url = git@github.com:Hyper-W/ubuntu-dood.git
+[submodule "alpine-dood"]
+	path = alpine-dood
+	url = git@github.com:Hyper-W/alpine-dood.git
+[submodule "debian-dood"]
+	path = debian-dood
+	url = git@github.com:Hyper-W/debian-dood.git
