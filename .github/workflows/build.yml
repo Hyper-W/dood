@@ -12,9 +12,6 @@ on:
 jobs:
     getdir:
         runs-on: ubuntu-latest
-        permissions:
-            contents: read
-            packages: write
         outputs:
             matrix: ${{ steps.output_matrix.outputs.matrix }}
         steps:
